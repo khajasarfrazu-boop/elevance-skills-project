@@ -1,0 +1,25 @@
+{
+  "name": "evershop_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "seed": "evershop install",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "evershop install",
+    "build": "evershop build",
+    "start": "evershop start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "overrides": {
+    "webpack": "5.84.1",
+    "webpackbar": "5.0.2"
+  },
+  "dependencies": {
+    "@evershop/evershop": "^2.1.2",
+    "evershop": "^1.0.0-beta"
+  }
+}
