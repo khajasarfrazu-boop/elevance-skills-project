@@ -12,6 +12,8 @@ This repository contains the deployment configuration and core files for a produ
 <img width="1905" height="1023" alt="products" src="https://github.com/user-attachments/assets/0428b2a3-62c9-4908-bba8-5e58e590ffb8" />
 <img width="1911" height="1027" alt="website" src="https://github.com/user-attachments/assets/8fcea380-80ce-4eba-803e-6f9916a82351" />
 
+**Cost Optimization & Decommissioning Notice:**
+> I successfully deployed the full infrastructure on AWS, which you can see in the 'Live Proof' section below. To manage cloud costs and follow best practices for resource cleanup, I decommissioned the active instances after documenting the successful deployment. However, the entire configuration and IaC (Infrastructure as Code) patterns are preserved here in the repository to demonstrate the architecture and deployment workflow.
 * **Environment:** AWS (Amazon Web Services)
 * **AWS Region:** ap-south-2 (Hyderabad)
 * **Database:** PostgreSQL (v14+)
