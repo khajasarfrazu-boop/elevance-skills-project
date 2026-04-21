@@ -4,13 +4,17 @@
 This repository contains the deployment configuration and core files for a production-ready EverShop e-commerce platform. This project was completed as part of the **Elevance Skills** training, focusing on full-stack deployment and AWS cloud infrastructure management.
 
 ## 🚀 Live Infrastructure
-* **Website URL:** <img width="1918" height="1010" alt="cloud front" src="https://github.com/user-attachments/assets/9b7940d5-f46b-4902-b919-58ef120f9c43" />
+* **Website URL:** InternetFacing-lb-1837675839.ap-south-2.elb.amazonaws.com/Accessories
+* Live proof :
+<img width="1918" height="1010" alt="cloud front" src="https://github.com/user-attachments/assets/9b7940d5-f46b-4902-b919-58ef120f9c43" />
 <img width="1911" height="1015" alt="Load Balancers" src="https://github.com/user-attachments/assets/014e2469-7592-4c63-b2c8-6130b3a9bac0" />
 <img width="1912" height="1010" alt="Instances" src="https://github.com/user-attachments/assets/78d66f21-bc56-4674-b7e7-ab5c3c6712ac" />
 <img width="1905" height="1023" alt="products" src="https://github.com/user-attachments/assets/0428b2a3-62c9-4908-bba8-5e58e590ffb8" />
 <img width="1911" height="1027" alt="website" src="https://github.com/user-attachments/assets/8fcea380-80ce-4eba-803e-6f9916a82351" />
-InternetFacing-lb-1837675839.ap-south-2.elb.amazonaws.com/Accessories
+
 * **Environment:** AWS (Amazon Web Services)
+* **AWS Region:** ap-south-2 (Hyderabad)
+* **Database:** PostgreSQL (v14+)
 
 ## 🏗️ Cloud Architecture & Key Features
 Beyond the code, this project demonstrates advanced cloud engineering skills:
